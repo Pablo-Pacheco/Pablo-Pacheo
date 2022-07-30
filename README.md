@@ -16,7 +16,9 @@
 </div>
 
   ##
+  
 <div>
   
  ![Snake animation](https://github.com/Pablo-Pacheco/Pablo-Pacheco/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
